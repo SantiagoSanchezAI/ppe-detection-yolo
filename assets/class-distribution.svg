@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="416" viewBox="0 0 720 416" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<text x="110" y="26" font-size="16" font-weight="600" fill="#8b949e">Annotations per class (11,521 total)</text>
+<text x="100" y="71" font-size="13" text-anchor="end" fill="#8b949e">Person</text>
+<rect x="110" y="56" width="520.0" height="20" rx="3" fill="#d9a441"/>
+<text x="638.0" y="71" font-size="12" fill="#8b949e">2,245</text>
+<text x="100" y="101" font-size="13" text-anchor="end" fill="#8b949e">helmet</text>
+<rect x="110" y="86" width="401.6" height="20" rx="3" fill="#d9a441"/>
+<text x="519.6" y="101" font-size="12" fill="#8b949e">1,734</text>
+<text x="100" y="131" font-size="13" text-anchor="end" fill="#8b949e">vest</text>
+<rect x="110" y="116" width="374.8" height="20" rx="3" fill="#d9a441"/>
+<text x="492.8" y="131" font-size="12" fill="#8b949e">1,618</text>
+<text x="100" y="161" font-size="13" text-anchor="end" fill="#8b949e">boots</text>
+<rect x="110" y="146" width="369.9" height="20" rx="3" fill="#d9a441"/>
+<text x="487.9" y="161" font-size="12" fill="#8b949e">1,597</text>
+<text x="100" y="191" font-size="13" text-anchor="end" fill="#8b949e">gloves</text>
+<rect x="110" y="176" width="334.7" height="20" rx="3" fill="#d9a441"/>
+<text x="452.7" y="191" font-size="12" fill="#8b949e">1,445</text>
+<text x="100" y="221" font-size="13" text-anchor="end" fill="#8b949e">none</text>
+<rect x="110" y="206" width="184.6" height="20" rx="3" fill="#c9634a"/>
+<text x="302.6" y="221" font-size="12" fill="#8b949e">797</text>
+<text x="100" y="251" font-size="13" text-anchor="end" fill="#8b949e">no_gloves</text>
+<rect x="110" y="236" width="128.8" height="20" rx="3" fill="#c9634a"/>
+<text x="246.8" y="251" font-size="12" fill="#8b949e">556</text>
+<text x="100" y="281" font-size="13" text-anchor="end" fill="#8b949e">goggles</text>
+<rect x="110" y="266" width="120.0" height="20" rx="3" fill="#d9a441"/>
+<text x="238.0" y="281" font-size="12" fill="#8b949e">518</text>
+<text x="100" y="311" font-size="13" text-anchor="end" fill="#8b949e">no_helmet</text>
+<rect x="110" y="296" width="112.3" height="20" rx="3" fill="#c9634a"/>
+<text x="230.3" y="311" font-size="12" fill="#8b949e">485</text>
+<text x="100" y="341" font-size="13" text-anchor="end" fill="#8b949e">no_goggle</text>
+<rect x="110" y="326" width="95.2" height="20" rx="3" fill="#c9634a"/>
+<text x="213.2" y="341" font-size="12" fill="#8b949e">411</text>
+<text x="100" y="371" font-size="13" text-anchor="end" fill="#8b949e">no_boots</text>
+<rect x="110" y="356" width="26.6" height="20" rx="3" fill="#c9634a"/>
+<text x="144.6" y="371" font-size="12" fill="#8b949e">115</text>
+<text x="110" y="408" font-size="11" fill="#8b949e">Amber: PPE present · Red: PPE missing (under-represented)</text>
+</svg>
