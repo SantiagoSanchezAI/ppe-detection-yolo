@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="300" viewBox="0 0 560 300" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<text x="40" y="26" font-size="16" font-weight="600" fill="#8b949e">Final validation metrics (100 epochs)</text>
+<line x1="40" y1="240" x2="540" y2="240" stroke="#8b949e" stroke-opacity=".4"/>
+<rect x="60" y="115.3" width="90" height="124.7" rx="4" fill="#d9a441"/>
+<text x="105" y="107.3" font-size="14" font-weight="600" text-anchor="middle" fill="#8b949e">69.3%</text>
+<text x="105" y="260" font-size="13" text-anchor="middle" fill="#8b949e">Precision</text>
+<rect x="190" y="138.1" width="90" height="101.9" rx="4" fill="#d9a441"/>
+<text x="235" y="130.1" font-size="14" font-weight="600" text-anchor="middle" fill="#8b949e">56.6%</text>
+<text x="235" y="260" font-size="13" text-anchor="middle" fill="#8b949e">Recall</text>
+<rect x="320" y="134.0" width="90" height="106.0" rx="4" fill="#d9a441"/>
+<text x="365" y="126.0" font-size="14" font-weight="600" text-anchor="middle" fill="#8b949e">58.9%</text>
+<text x="365" y="260" font-size="13" text-anchor="middle" fill="#8b949e">mAP50</text>
+<rect x="450" y="189.8" width="90" height="50.2" rx="4" fill="#d9a441"/>
+<text x="495" y="181.8" font-size="14" font-weight="600" text-anchor="middle" fill="#8b949e">27.9%</text>
+<text x="495" y="260" font-size="13" text-anchor="middle" fill="#8b949e">mAP50-95</text>
+</svg>
